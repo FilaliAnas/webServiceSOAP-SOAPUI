@@ -15,6 +15,9 @@ L'objectif de cette activité pratique est de créer un simple Web Service en ut
 
 ### 3. Consultation et Analyse du WSDL
 - Utilisez un navigateur HTTP pour consulter et analyser le WSDL généré pour votre Web Service. Documentez les informations clés que vous trouvez.
+- ![image](https://github.com/FilaliAnas/webServiceSOAP-SOAPUI/assets/107961652/0d5856f5-e26b-4e5b-b94f-347d107f2837)
+- ![image](https://github.com/FilaliAnas/webServiceSOAP-SOAPUI/assets/107961652/bf9f6317-c0f3-4d45-ab17-a98b703b6dcb)
+
 
 ### 4. Test du Web Service
 - Utilisez un outil tel que SoapUI pour tester les opérations de votre Web Service. Assurez-vous que les opérations fonctionnent correctement.
