@@ -18,6 +18,8 @@ L'objectif de cette activité pratique est de créer un simple Web Service en ut
 
 ### 4. Test du Web Service
 - Utilisez un outil tel que SoapUI pour tester les opérations de votre Web Service. Assurez-vous que les opérations fonctionnent correctement.
+- ![image](https://github.com/FilaliAnas/webServiceSOAP-SOAPUI/assets/107961652/4a8c3af0-2d34-4c04-96d8-b087c9aeddc5)
+
 
 ### 5. Création d'un Client SOAP Java
 - Créez un client Java qui peut interagir avec votre Web Service en utilisant SOAP. Assurez-vous de fournir des instructions sur la création et l'utilisation du client.
