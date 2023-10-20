@@ -26,9 +26,3 @@ L'objectif de cette activité pratique est de créer un simple Web Service en ut
 
 ### 5. Création d'un Client SOAP Java
 - Créez un client Java qui peut interagir avec votre Web Service en utilisant SOAP. Assurez-vous de fournir des instructions sur la création et l'utilisation du client.
-
-## Ressources Supplémentaires
-Pour toute question ou problème, veuillez consulter le matériel de cours approprié ou contacter votre instructeur.
-
-## Remarque
-Assurez-vous de respecter toutes les conventions de nommage et de documentation appropriées dans votre code source. Bonne chance avec votre activité pratique !
